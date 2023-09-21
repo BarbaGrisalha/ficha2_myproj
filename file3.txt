@@ -1,8 +1,7 @@
 Este é um exemplo de um ficheiro de texto file3
 
-
 Acrescentei mais linhas
 Uma linha
 duas linhas 
 três linhas
-
+didid
